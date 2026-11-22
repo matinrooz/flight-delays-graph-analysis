@@ -1,0 +1,41 @@
+year,code,name,flights,cancelled,cancelled_pct
+2014,MQ,Envoy Air,392701,21156,5.39
+2014,EV,ExpressJet Airlines,686021,34128,4.97
+2014,OO,SkyWest Airlines,613030,18308,2.99
+2014,B6,JetBlue Airways,249693,6076,2.43
+2014,FL,AirTran Airways,79495,1516,1.91
+2014,US,US Airways,414665,6737,1.62
+2014,AA,American Airlines,537697,8457,1.57
+2014,UA,United Air Lines,493528,7330,1.49
+2014,WN,Southwest Airlines,1174633,15165,1.29
+2014,DL,Delta Air Lines,800375,6502,0.81
+2014,VX,Virgin America,57510,335,0.58
+2014,AS,Alaska Airlines,160257,759,0.47
+2014,F9,Frontier Airlines,85474,357,0.42
+2014,HA,Hawaiian Airlines,74732,158,0.21
+2015,MQ,Envoy Air,294632,15025,5.1
+2015,EV,ExpressJet Airlines,571977,15231,2.66
+2015,US,US Airways,198715,4067,2.05
+2015,NK,Spirit Airlines,117379,2004,1.71
+2015,OO,SkyWest Airlines,588353,9960,1.69
+2015,B6,JetBlue Airways,267048,4276,1.6
+2015,AA,American Airlines,725984,10919,1.5
+2015,UA,United Air Lines,515723,6573,1.27
+2015,WN,Southwest Airlines,1261855,16043,1.27
+2015,VX,Virgin America,61903,534,0.86
+2015,F9,Frontier Airlines,90836,588,0.65
+2015,DL,Delta Air Lines,875881,3824,0.44
+2015,AS,Alaska Airlines,172521,669,0.39
+2015,HA,Hawaiian Airlines,76272,171,0.22
+2016,EV,ExpressJet Airlines,490990,11889,2.42
+2016,NK,Spirit Airlines,138199,2629,1.9
+2016,OO,SkyWest Airlines,605933,8446,1.39
+2016,B6,JetBlue Airways,282473,3797,1.34
+2016,F9,Frontier Airlines,95121,1179,1.24
+2016,WN,Southwest Airlines,1299444,15866,1.22
+2016,AA,American Airlines,914495,10867,1.19
+2016,UA,United Air Lines,545067,5470,1.0
+2016,VX,Virgin America,69121,669,0.97
+2016,AS,Alaska Airlines,177280,815,0.46
+2016,DL,Delta Air Lines,922746,4116,0.45
+2016,HA,Hawaiian Airlines,76789,118,0.15

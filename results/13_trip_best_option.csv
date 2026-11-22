@@ -1,0 +1,16 @@
+trip,airports,carriers,expected_minutes,expected_delay,min_leg_flights
+BGR-KOA,"['BGR', 'DTW', 'SFO', 'KOA']","[['DL', 'EV'], ['DL'], ['UA']]",756,0.0,284
+BGR-KOA,"['BGR', 'DTW', 'SAN', 'KOA']","[['DL', 'EV'], ['DL'], ['AS']]",762,-17.1,169
+BGR-KOA,"['BGR', 'DTW', 'DEN', 'KOA']","[['DL', 'EV'], ['WN', 'UA', 'F9', 'DL', 'NK', 'OO'], ['UA']]",762,3.9,91
+BGR-KOA,"['BGR', 'DTW', 'LAX', 'KOA']","[['DL', 'EV'], ['DL', 'NK'], ['AA', 'HA', 'DL', 'UA']]",766,4.2,284
+BGR-KOA,"['BGR', 'DTW', 'PHX', 'KOA']","[['DL', 'EV'], ['WN', 'F9', 'AA', 'DL'], ['AA']]",774,3.3,284
+ASE-BTV,"['ASE', 'ORD', 'BTV']","[['OO'], ['EV', 'UA']]",284,6.3,634
+ASE-BTV,"['ASE', 'DEN', 'DTW', 'BTV']","[['OO'], ['WN', 'F9', 'DL', 'NK', 'UA', 'OO'], ['EV']]",308,2.5,202
+ASE-BTV,"['ASE', 'DEN', 'ORD', 'BTV']","[['OO'], ['F9', 'AA', 'UA', 'NK', 'OO'], ['EV', 'UA']]",320,6.3,875
+ASE-BTV,"['ASE', 'ATL', 'BTV']","[['OO'], ['EV', 'DL']]",326,2.6,94
+ASE-BTV,"['ASE', 'ORD', 'DTW', 'BTV']","[['OO'], ['AA', 'EV', 'UA', 'OO', 'DL'], ['EV']]",331,2.5,202
+BOS-SFO,"['BOS', 'SFO']","[['B6', 'UA', 'VX']]",388,1.7,4494
+BOS-SFO,"['BOS', 'MKE', 'SFO']","[['WN'], ['WN']]",422,4.6,399
+BOS-SFO,"['BOS', 'PIT', 'SFO']","[['B6', 'AA'], ['UA']]",426,-2.2,296
+BOS-SFO,"['BOS', 'DEN', 'SFO']","[['WN', 'UA', 'B6'], ['WN', 'VX', 'F9', 'UA', 'OO', 'B6']]",428,10.2,2795
+BOS-SFO,"['BOS', 'MDW', 'SFO']","[['WN'], ['WN']]",429,7.7,856

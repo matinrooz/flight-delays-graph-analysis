@@ -1,0 +1,16 @@
+code,name,avg_arr_delay,flights
+NK,Spirit Airlines,11.7,250564
+F9,Frontier Airlines,11.0,268850
+MQ,Envoy Air,9.3,649315
+EV,ExpressJet Airlines,8.0,1682041
+B6,JetBlue Airways,7.2,782980
+WN,Southwest Airlines,6.0,3679654
+OO,SkyWest Airlines,5.9,1765466
+VX,Virgin America,5.9,186561
+AA,American Airlines,5.3,2141630
+UA,United Air Lines,4.6,1530944
+US,US Airways,3.3,601406
+FL,AirTran Airways,2.2,77818
+HA,Hawaiian Airlines,0.8,227124
+DL,Delta Air Lines,0.6,2579671
+AS,Alaska Airlines,-1.2,506507

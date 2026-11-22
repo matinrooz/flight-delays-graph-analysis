@@ -1,0 +1,11 @@
+code,name,avg_taxi_in,arrivals
+ORD,Chicago O'Hare International Airport,12.9,816543
+LAX,Los Angeles International Airport,12.0,640270
+DFW,Dallas Fort Worth International Airport,11.4,717838
+CLT,Charlotte Douglas International Airport,9.5,327798
+EWR,Newark Liberty International Airport,9.5,325858
+JFK,John F Kennedy International Airport,8.9,294601
+MIA,Miami International Airport,8.9,224640
+ATL,Hartsfield Jackson Atlanta International Airport,8.7,1121902
+IAH,George Bush Intercontinental Houston Airport,8.6,462438
+DEN,Denver International Airport,8.6,655157
