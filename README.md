@@ -1,5 +1,9 @@
 # flight-delays-graph-analysis
 
+**What:** 17.3 million US domestic flights (2014-2016) as a Neo4j graph, with Cypher queries for delays, cancellations, hubs and trip search.  
+**Result:** Cancellations fell from 2.18% to 1.17% in three years; all 24 totals from the graph match the raw data exactly.  
+**Stack:** Neo4j 5, Cypher, Python, pandas
+
 All US domestic flights from 2014 to 2016 (17.3 million of them) in a Neo4j graph, with
 Cypher queries for the questions I was curious about: did the network grow, which carriers
 and airports cancel or delay the most, when does weather cancel flights, and how many times
