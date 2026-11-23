@@ -27,11 +27,9 @@ for the trip search.
 
 ## Results
 
-| year | flights | cancelled | planes |
-|---|---|---|---|
-| 2014 | 5,819,811 | 2.18% | 4,748 |
-| 2015 | 5,819,079 | 1.54% | 4,896 |
-| 2016 | 5,617,658 | 1.17% | 5,035 |
+The network did not grow in these three years: about 5.8 million flights in 2014 and 2015,
+and 5.6 million in 2016. But there were more planes each year (4,748, 4,896, then 5,035), and
+the share of cancelled flights almost halved, from 2.18% to 1.54% to 1.17%.
 
 ![Cancellation rate per carrier](figures/cancellation_rate_by_carrier.png)
 
@@ -40,15 +38,13 @@ for the trip search.
 - Half of all weather cancellations (49%) happen in January and February.
 - Atlanta is the busiest airport and the biggest hub (165 direct destinations in 2016).
 
-Trip search in 2016, the part where a graph really helps:
+Trip search in 2016 is the part where a graph really helps. From Bangor (Maine) to Kona
+(Hawaii) you need at least two changes, and the quickest option is BGR → DTW → SFO → KOA with
+756 minutes in the air. Aspen to Burlington needs one change (ASE → ORD → BTV, 284 minutes),
+and Boston to San Francisco has direct flights (388 minutes).
 
-| trip | fewest changes | quickest route | flight time |
-|---|---|---|---|
-| Bangor, ME → Kona, HI | 2 | BGR → DTW → SFO → KOA | 756 min |
-| Aspen, CO → Burlington, VT | 1 | ASE → ORD → BTV | 284 min |
-| Boston → San Francisco | 0 | direct | 388 min |
-
-Flight time is the sum of the average leg times, without the time on the ground.
+These times are the sum of the average flight times of the legs, so the time on the ground
+between flights is not included.
 
 ## Checking the results
 
