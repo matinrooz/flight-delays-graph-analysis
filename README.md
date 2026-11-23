@@ -5,11 +5,6 @@ Cypher queries for the questions I was curious about: did the network grow, whic
 and airports cancel or delay the most, when does weather cancel flights, and how many times
 do you have to change planes to get from a small airport to another one.
 
-I first worked with Neo4j in the Distributed Information Systems course at the University of
-Basel, with a smaller dataset of the same flights. Here I wanted to do it again properly: the full public
-data, my own questions, and a check that the numbers coming out of the graph are actually
-right.
-
 ## Data
 
 - **Flights**: the monthly "Reporting Carrier On-Time Performance" files from the US Bureau
